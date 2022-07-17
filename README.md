@@ -1,1 +1,1 @@
-Repozytor created for forts workshop tasks from bootcamp
+Repository created for first workshop tasks from Coder's Lab bootcamp
