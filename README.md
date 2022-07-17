@@ -1,1 +1,1 @@
-# Workshop_1
+Repozytor created for forts workshop tasks from bootcamp
